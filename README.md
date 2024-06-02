@@ -1,5 +1,6 @@
 # Prediction-of-hardness-of-HEAs
-Welcome to **High-throughput Screening Platform** of **hardness prediction** and **thermodynamic parameter calculation** for **high-entropy alloys (HEAs)**. 
+Welcome to **High-throughput Screening Platform** of **hardness prediction** and **thermodynamic parameter calculation** for **high-entropy alloys (HEAs)**.   
+
 The operation of this platform is very friendly for materials scientists who have no programming foundation. 
 You need to install the corresponding python library and run the prediction code. 
 Specifically, the hardness of high entropy alloy can be obtained by inputting components by examples. Include 15 elements, Al Co Cr Cu Fe Ni Mo Ti W Nb Ta V Mn HF Zr.
